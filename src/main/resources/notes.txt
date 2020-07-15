@@ -1,0 +1,4 @@
+db password:
+Azure MySQL server
+spring.datasource.username=besttowatch@besttowatchdb
+spring.datasource.password=Password101&*
